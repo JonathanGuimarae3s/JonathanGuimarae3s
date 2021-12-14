@@ -27,11 +27,7 @@
 <img align="center" alt="Jonathan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Jonathan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> 
-  <div align="center">
-  <a href="https://github.com/Gfabrici0">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonathanGuimarae3s&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estatísticas%20GitHub%20de%20Gabriel&hide_border=none&bg_color=0D1117&icon_color=00C9FF&text_color=FFFFFF&title_color=00C9FF"> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanGuimarae3s&layout=compact&langs_count=7&theme=gotham&custom_title=Principais%20Linguagens&card_width=250em&hide_border=none&bg_color=0D1117&icon_color=FFFFFF&text_color=FFFFFF&title_color=00C9FF"/>
-</div>
+ 
 <h2>Onde me encontrar</h2>
   <img src="https://33.media.tumblr.com/3c498413ebfc506d9ded1965009ec385/tumblr_ncdg443NhR1rbrys3o1_500.gif">
 <div>
