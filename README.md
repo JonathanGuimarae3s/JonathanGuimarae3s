@@ -24,7 +24,7 @@
     <img align="center" alt="Jonathan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Jonathan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div> 
-  <h2>formas de entrar em contato</h2>
+  <h2>Onde me achar</h2>
   <div>
     <a href="mailto:guimaraesjonathan92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.instagram.com/jonathanguimaraeslo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
