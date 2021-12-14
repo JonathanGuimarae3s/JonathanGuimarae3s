@@ -21,7 +21,7 @@
 </ul>
 </div>
 
-
+<div align="center">
 <h2>💻 Tecnologias que estou estudando</h2>
 <div align="center" style="display: inline_block">
 <img align="center" alt="Jonathan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,4 +36,5 @@
 
 </div>
   <img src="https://33.media.tumblr.com/3c498413ebfc506d9ded1965009ec385/tumblr_ncdg443NhR1rbrys3o1_500.gif">
+  </div>
 </body>
