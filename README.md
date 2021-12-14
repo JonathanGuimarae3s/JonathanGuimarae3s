@@ -4,7 +4,7 @@
 
 <h1 align= "center"> Olá, eu sou Jonathan Guimarães. Seja bem-vindo(a) ao meu perfil! </h1>
 
-<img src="https://giphy.com/gifs/hunter-x-hxh-gon-freecss-eDfC2D5n1670A?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=" alt="">
+<img src="https://i.imgur.com/jx17oHT.gif"alt="">
 
 
 
