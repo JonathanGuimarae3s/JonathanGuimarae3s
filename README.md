@@ -4,7 +4,7 @@
 
 <h1 align= "center"> Olá, eu sou Jonathan Guimarães. Seja bem-vindo(a) ao meu perfil! </h1>
 
-
+<img src="https://i.pinimg.com/originals/de/0a/19/de0a19e91b80ab43ee297ea0d16c8cba.gif">
 
 
 
