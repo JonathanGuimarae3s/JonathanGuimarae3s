@@ -26,12 +26,15 @@
 <img align="center" alt="Jonathan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Jonathan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Jonathan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <div align="center">
+
+  <div align="center">
   <a href="https://github.com/JonathanGuimarae3s">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonathanGuimarae3s&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estatísticas%20%do20GitHub%20de%20Jonathan&hide_border=none&bg_color=0D1117&icon_color=00C9FF&text_color=FFFFFF&title_color=00C9FF"> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanGuimarae3s&layout=compact&langs_count=7&theme=merko&custom_title=Principais%20Linguagens&card_width=250em&hide_border=none&bg_color=0D1117&icon_color=FFFFFF&text_color=FFFFFF&title_color=00C9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanGuimarae3s&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanGuimarae3s&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
+    
+    
 </div> 
  
 <h2>Onde me encontrar</h2>
