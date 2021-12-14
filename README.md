@@ -1,14 +1,17 @@
+
 <body>
 
 
-    <h1 align= center>Bem-vindo(a) ao meu Perfil </h1>
-    <div align= center><img src="https://giphy.com/embed/eDfC2D5n1670A" alt=""></div>
+    <h1 align= "center">Bem-vindo(a) ao meu Perfil! Olá, eu sou Jonathan Guimarães. Seja bem-vindo(a) ao meu perfil! </h1>
 
-    <br>
+    <div align= "center"><img src="https://giphy.com/embed/eDfC2D5n1670A" alt=""></div>
+
+ 
 
 
 
 <h2 align="center"> Sobre mim </h2>
+
 <div>
 
 
@@ -30,3 +33,6 @@
     <a href="https://www.instagram.com/jonathanguimaraeslo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
     <a href="https://www.linkedin.com/in/jonathan-guimar%C3%A3es-984b69219/"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="28" /></a>
     <img src="https://giphy.com/gifs/UbisoftFR-valhalla-acv-assassinscreedvalhalla-IeXoLjRPLh0G2FlQ1Z"" alt="">
+  </div>
+</body>
+
