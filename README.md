@@ -28,6 +28,6 @@
   <div>
     <a href="mailto:guimaraesjonathan92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.instagram.com/jonathanguimaraeslo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-    <a href="https://www.linkedin.com/in/jonathan-guimar%C3%A3es-984b69219/"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn"  height="28"/></a>
+    <a href="https://www.linkedin.com/in/jonathan-guimar%C3%A3es-984b69219/"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn"  height="28"/></a>
   </div>
 </body>
