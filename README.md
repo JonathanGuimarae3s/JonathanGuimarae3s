@@ -13,7 +13,7 @@
 
 <h2 align="center"> Sobre mim </h2>
   
-  -  📚 Atualmente estou estudando para ser um Desenvolvedor Front-end
+  -  📚 Atualmente estou estudando para ser um Desenvolvedor Front-end.
 
 <div>
 
