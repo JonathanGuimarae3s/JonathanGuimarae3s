@@ -12,8 +12,12 @@
 
 
 <h2 align="center"> Sobre mim </h2>
-  
-  -  📚 Atualmente estou estudando para ser um Desenvolvedor Front-end.
+    Olá, sou Jonathan Guimarães. Atualmente, estou estudando para atuar na área que eu gosto, programação, como Desenvolvedor Web Front-end.
+
+Linguagens que estou estudando HTML, CSS e JavaScript e futuramente estudarei React js E NodeJs para aumentar ainda mais minha vontade de aprender.
+
+
+Hoje estou em busca da minha primeira oportunidade seja como Dev web ou Desenvolvedor Front-end JR
 
 <div>
 
