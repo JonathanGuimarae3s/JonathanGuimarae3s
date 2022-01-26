@@ -43,6 +43,16 @@ Hoje estou em busca da minha primeira oportunidade seja como Dev web ou Desenvol
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JonathanGuimarae3s&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanGuimarae3s&layout=compact&langs_count=7&theme=merko"/>
 </div>
+      
+      
+## Projetos
+<div>
+- <a href="https://jonathanguimarae3s.github.io/vitrine/">Vitrine para Kids Karolina</a>  
+- <a href="https://jonathanguimarae3s.github.io/curiosidades-do-android/">Curiosidades do android</a>  
+- <a href="https://jonathanguimarae3s.github.io/todo-list/">Todo-List (Jonathan Guimarães)</a>  
+- <a href="https://jonathanguimarae3s.github.io/landing-page/">Worshop</a>   
+- <a href="https://jonathanguimarae3s.github.io/churrascometro/" target="_blank">Churrascômetro</a>  
+ </div>
     
 <h2>Onde me encontrar</h2>
   <img src="https://33.media.tumblr.com/3c498413ebfc506d9ded1965009ec385/tumblr_ncdg443NhR1rbrys3o1_500.gif">
