@@ -50,7 +50,7 @@ Hoje estou em busca da minha primeira oportunidade seja como Dev web ou Desenvol
 - <a href="https://jonathanguimarae3s.github.io/vitrine/">Vitrine para Kids Karolina</a>  
 - <a href="https://jonathanguimarae3s.github.io/curiosidades-do-android/">Curiosidades do android</a>  
 - <a href="https://jonathanguimarae3s.github.io/todo-list/">Todo-List (Jonathan Guimarães)</a>  
-- <a href="https://jonathanguimarae3s.github.io/landing-page/">Worshop</a>   
+- <a href="https://jonathanguimarae3s.github.io/landing-page/">Workshop</a>   
 - <a href="https://jonathanguimarae3s.github.io/churrascometro/" target="_blank">Churrascômetro</a>  
  </div>
     
