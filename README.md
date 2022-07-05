@@ -12,11 +12,7 @@
 
 
 <h2 align="center"> Sobre mim </h2>
-   Olá, sou Jonathan Guimarães e tenho 20 anos. Minha história com a programação começou há 3 anos atrás por meio do incentivo de um grande amigo e curiosidade minha por esse mundo. Atualmente, estou estudando para atuar como Desenvolvedor Web Front-end, o qual eu tenho mais afinidade e futuramente pretendo estudar sobre o Back-End.
-
-No momento estou estudando JavaScript, HTML e CSS. Tendo um sólido conhecimento nessa tríade seguirei para os FrameWorks: Bootstrap e React para assim concluir o meu objetivo.
-
-Estou a procura de oportunidades como Desenvolvedor Web JR e aceito trabalhos freelance, entre em contato comigo para saber mais.
+ - 📚 Cursando Técnico em Informática- SENAC-RJ 
 
 <div>
 
