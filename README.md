@@ -11,7 +11,6 @@
       <img  alt="Jonathan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 <br>
-<br>
 <div align="center">
   <a href="https://github.com/JonathanGuimarae3s">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JonathanGuimarae3s&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
