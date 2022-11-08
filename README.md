@@ -2,14 +2,18 @@
 
 - :books: Atualmente estou realizando o curso Téc. em Infomática/Senac-RJ
 
-
-<h3>💻 Tecnologias que estou estudando</h3>
+<h3> :nerd_face: Tecnologias estudadas</h3>
 <div  style="display: inline_block">
      <img  alt="Jonathan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img  alt="Jonathan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img  alt="Jonathan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img  alt="Jonathan-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-      <img  alt="Jonathan-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+     
+
+</div>
+<h3>💻 Tecnologias que estou estudando</h3>
+<div  style="display: inline_block">
+    <img  alt="Jonathan-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
       <img  alt="Jonathan-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 </div>
